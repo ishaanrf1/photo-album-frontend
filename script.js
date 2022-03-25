@@ -1,7 +1,7 @@
 $('document').ready(function () {
-  var baseUrl_ = "https://kujqgsldke.execute-api.us-east-1.amazonaws.com/v1";
-  var bucketName_ = "b2-foto";
-  var apiKey_ = "IQcppMY6Vc0JL4PlTowQ8fQD90CgM424Dv4ueux7";
+  var baseUrl_ = "https://51pilsvexd.execute-api.us-east-1.amazonaws.com/v1";
+  var bucketName_ = "photo-store-cf";
+  var apiKey_ = "SWpaQ1HDTn2ABpHwxt9Ss6mTQAdZiVQa2MrA0e7H";
     
   $("#x-search-form").on('submit', function (event) {
     event.preventDefault();
